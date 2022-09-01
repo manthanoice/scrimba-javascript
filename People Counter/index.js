@@ -6,13 +6,15 @@ console.log(saveEl)
 
 function increment(){
     count ++
-    countEl.innerText = count
+    countEl.textContent = count
 }
 
 function save(){
     let the_count = count + " - "
-    saveEl.innerText += the_count
+    saveEl.textContent += the_count
     console.log(count)
+    count = 0
+    countEl.textContent = count
 }
 
 save()

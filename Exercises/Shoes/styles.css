@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+    display: block;
+}
+
+body{
+    padding: 20px;
+}
+
+button{
+    padding: 10px 16px;
+    border-radius: 20px;
+    border-color: whitesmoke;
+    background: white;
+    color: black;
+    border: 1px solid black;
+}
+
+p{
+    font-weight: 600;
+}
+
+#error{
+    color: red;
+    font-weight: 200;
+}
