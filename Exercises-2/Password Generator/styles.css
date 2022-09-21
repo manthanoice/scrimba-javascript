@@ -1,0 +1,71 @@
+body{
+    padding: 40px;
+    text-align: center;
+    background: #1F2937;
+    font-family: 'Karla', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    color: #ffffff;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+br{
+    margin: 0;
+}
+
+#span-one{
+    color: #4ADF86;
+}
+
+#span-two{
+    margin-right: 138px;
+}
+
+p{
+    margin-left: 23px;
+    font-size: 20px;
+    color: #D5D4D8;
+}
+
+#pass-gen{
+    margin-top: 50px;
+    background: #10B981;
+    padding: 9px 17px 9px 15px;
+    color: #ffffff;
+    border-radius: 6px;
+    border: none;
+    margin-right: 190px;
+}
+
+#hehe{
+    margin-left: 550px;
+    width: 380px;
+    border: 1px solid #2F3E53;
+}
+
+#btn1{
+    width: 184px;
+    height: 39px;
+    left: 52px;
+    top: 396px;
+    background: #273549;
+    border-radius: 6px;
+    margin-left: 40px;
+    border: none;
+    color: #55F991;
+}
+
+#btn2{
+    border: none;
+    width: 184px;
+    margin-left: 10px;
+    height: 39px;
+    left: 52px;
+    top: 396px;
+    background: #273549;
+    border-radius: 6px;
+    color: #55F991
+}
