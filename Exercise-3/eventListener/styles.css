@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    padding: 20px 0;
+    background: whitesmoke;
+    color: darkgreen;
+}
+
+button{
+    border: none;
+    background: lightcoral;
+    color: black;
+    border-radius: 4px;
+    padding: 10px 16px;
+    border: 1px solid black;
+}
