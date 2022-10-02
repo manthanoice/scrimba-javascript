@@ -1,0 +1,82 @@
+body{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    margin: 0;
+    display: block;
+}
+
+div{
+    margin: 0;
+}
+
+#main{
+    margin: 0;
+    height: 729px;
+    width: 550px;
+    background: #F4F4F4;
+}
+
+#container{
+    padding-top: 1px;
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
+}
+
+h4{
+    margin-top: 33px;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+
+input{
+    margin-top: 0;
+    background: #6943FF;
+    height: 83px;
+    width: 117px;
+    border: 1px solid #B295FF;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+}
+
+button{
+    margin-top: 27px;
+    outline: none;
+    font-size: 16px;
+    padding: 10px 30px;
+    color: #3D3D3D;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 29px;
+}
+
+#three-container{
+    margin: 25px;
+    margin-top: 30px;
+    width: 500px;
+    height: 108.57px;
+    background: #FFFFFF;
+    border-radius: 4.68077px;
+}
+
+#up{
+    display: inline-block;
+    margin-top: 31px;
+    color: #5A537B;
+    font-size: 20px;
+    line-height: 20px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.down{
+    margin: 0;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #353535;
+    line-height: 20px;
+}
